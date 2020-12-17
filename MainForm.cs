@@ -15,6 +15,7 @@ namespace november23
         public MainForm()
         {
             InitializeComponent();
+            int test = 2;
         }
     }
 }
